@@ -3,3 +3,4 @@ wikipedia
 requests
 speechrecognition
 scikit-learn
+streamlit-chat
