@@ -1,5 +1,5 @@
 streamlit
 wikipedia
 requests
-pyttsx3
 speechrecognition
+scikit-learn
